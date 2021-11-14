@@ -31,6 +31,6 @@ This is an implementation of SIFT algorithm to find correspondences in image pai
 
 ![alt text][image2]
 
-### Outliers :
+### Outliers 
 
 ![alt text][image3]
