@@ -7,28 +7,27 @@ This is an implementation of SIFT algorithm to find correspondences in image pai
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="L01.png" width="450">
-    <em>Input Image</em>
+    <img alt="Forwarding" src="L01.png" width="250">
+    <em>Left Image</em>
   </p> 
 </td>
 <td> 
   <p align="center">
-    <img alt="Routing" src="RO2.png" width="450">
-    <em>Harris Output</em>
+    <img alt="Routing" src="R02.png" width="250">
+    <em>Right Output</em>
   </p> 
 </td>
 </tr></table>
-
 ## Matching :
 
 ### Feature Matching 
 
-![](Match.png)
+![Screenshot](Match.png)
 
 ### Inliers
 
-![](Inliers.png)
+![Screenshot](Inliers.png)
 
 ### Outliers :
 
-![](Outliers.png)
+![Screenshot](Outliers.png)
