@@ -17,17 +17,20 @@ This is an implementation of SIFT algorithm to find correspondences in image pai
 </td>
 </tr></table>
 
+[image1]: ./assets/Match.PNG
+[image2]: ./assets/Inliers.PNG 
+[image3]: ./assets/Outliers.PNG
 
 ## Matching :
 
 ### Feature Matching 
 
-![alt text][Matching.PNG]
+![alt text][image1]
 
 ### Inliers
 
-![alt text][Inliers.PNG]
+![alt text][image2]
 
 ### Outliers :
 
-![alt text][Outliers.PNG]
+![alt text][image3]
