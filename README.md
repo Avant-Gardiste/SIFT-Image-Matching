@@ -22,12 +22,12 @@ This is an implementation of SIFT algorithm to find correspondences in image pai
 
 ### Feature Matching 
 
-![alt text][Matching.png]
+![alt text][Matching.PNG]
 
 ### Inliers
 
-![alt text][Inliers.png]
+![alt text][Inliers.PNG]
 
 ### Outliers :
 
-![alt text][Outliers.png]
+![alt text][Outliers.PNG]
