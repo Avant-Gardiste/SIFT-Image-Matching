@@ -2,7 +2,7 @@
 
 This is an implementation of SIFT algorithm to find correspondences in image pair. Generally, it is used to detect and describe local features in digital images, it locates certain keypoints and then furnishes them with quantitative information (descriptors) which can for example be used for object recognition.
 
-## Image pair :
+## Image pair 
 
 <table><tr>
 <td> 
@@ -21,16 +21,16 @@ This is an implementation of SIFT algorithm to find correspondences in image pai
 [image2]: ./assets/Inliers.PNG 
 [image3]: ./assets/Outliers.PNG
 
-## Matching :
+## Matching 
 
-### Feature Matching 
+### Feature Matching :
 
 ![alt text][image1]
 
-### Inliers
+### Inliers :
 
 ![alt text][image2]
 
-### Outliers 
+### Outliers :
 
 ![alt text][image3]
